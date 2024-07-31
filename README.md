@@ -1,0 +1,1 @@
+Notes and exercises of "Introduction to Programming with Python" by Launch School
